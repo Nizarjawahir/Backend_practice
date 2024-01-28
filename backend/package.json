@@ -5,8 +5,8 @@
   "type": "module",
   
   "scripts": {
-    "start": "nodemon Task1.js",
-    "dev": "nodemon Task1.js",
+    "start": "nodemon custom validation.js",
+    "dev": "nodemon custom validation.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
